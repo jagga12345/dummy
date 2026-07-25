@@ -1,3 +1,5 @@
 jaguu paru love
 
 Sorry paru
+
+J = P;
