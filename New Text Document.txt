@@ -3,6 +3,5 @@ jaguu paru love
 Sorry paru
 
 J = P;
-
 let name = "John";
-let city = "Bangalore";
+let age = 25;
