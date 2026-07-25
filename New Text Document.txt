@@ -4,3 +4,5 @@ Sorry paru
 
 J = P;
 
+let name = "John";
+let city = "Bangalore";
