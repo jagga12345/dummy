@@ -3,3 +3,5 @@ jaguu paru love
 Sorry paru
 
 J = P;
+let name = "John";
+let age = 25;
